@@ -1,0 +1,8 @@
+{
+  "name": "NM 2D",
+  "description": "NM 2D Live Market Data and Betting Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
